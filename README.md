@@ -51,8 +51,8 @@ I'm a passionate **Full Stack Developer** currently working on a **US Government
 ## 🌐 Connect with Me
 
 - 🔗 [GitHub](https://github.com/code-with-srj)
-- 💼 [LinkedIn](https://www.linkedin.com/) *(update if needed)*
-- 📧 [Email](mailto:codewithsrj@gmail.com) *(update with your actual email)*
+- 💼 [LinkedIn](https://www.linkedin.com/)
+- 📧 [Email](mailto:codewithsrj@gmail.com) 
 
 ---
 
