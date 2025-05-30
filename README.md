@@ -52,7 +52,7 @@ I'm a passionate **Full Stack Developer** currently working on a **US Government
 
 - 🔗 [GitHub](https://github.com/shivamjha)
 - 💼 [LinkedIn](https://www.linkedin.com/in/shivamjha) *(update if needed)*
-- 📧 [Email](mailto:shivam@example.com) *(update with your actual email)*
+- 📧 [Email](mailto:codewithsrj@gmail.com) *(update with your actual email)*
 
 ---
 
