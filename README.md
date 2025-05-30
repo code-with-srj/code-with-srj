@@ -33,11 +33,11 @@ I'm a passionate **Full Stack Developer** currently working on a **US Government
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivamjha&show_icons=true&theme=tokyonight" alt="Shivam's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=code-with-srj&show_icons=true&theme=tokyonight" alt="Shivam's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamjha&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-srj&theme=tokyonight" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamjha&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-srj&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
