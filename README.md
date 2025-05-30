@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hello! I'm Shivam Jha
 
 🧑‍💻 Software Engineer | Full Stack Developer  
