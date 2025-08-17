@@ -51,14 +51,13 @@ I'm a passionate **Full Stack Developer** currently working on a **US Government
 
 ---
 
-<!-- ## 🌐 Connect with Me
+## 🌐 Connect with Me
 
 - 🔗 [GitHub](https://github.com/code-with-srj)
 - 💼 [LinkedIn](https://www.linkedin.com/in/shivam-raman-j-a3ab69284/)
 - 📧 [Email](mailto:codewithsrj@gmail.com) 
 
 ---
--->
 
 ## ✨ Quote I Live By
 
