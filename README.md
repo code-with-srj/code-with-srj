@@ -44,7 +44,7 @@ I'm a passionate **Full Stack Developer** currently working on a **US Government
 
 ## 🧠 Competitive Programming
 
-- 👨‍💻 [LeetCode](https://leetcode.com/shivamjha/) *(replace with your actual username if different)*
+- 👨‍💻 [LeetCode](https://leetcode.com/u/shivamramanjha/) *(replace with your actual username if different)*
 
 ---
 
