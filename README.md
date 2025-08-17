@@ -2,7 +2,10 @@
 
 🧑‍💻 Software Engineer | Full Stack Developer  
 🎓 B.Tech in Information Technology @ KIIT University (2019 – 2023)  
-📍 India | 💬 "Never give up. Always learn new things. It will give success."
+📍 India
+
+
+💬 "Never give up. Always learn new things. It will give success."
 
 ---
 
