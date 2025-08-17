@@ -44,14 +44,14 @@ I'm a passionate **Full Stack Developer** currently working on a **US Government
 
 ## 🧠 Competitive Programming
 
-- 👨‍💻 [LeetCode](https://leetcode.com/u/shivamramanjha/) *(replace with your actual username if different)*
+- 👨‍💻 [LeetCode](https://leetcode.com/u/shivamramanjha/)
 
 ---
 
 <!-- ## 🌐 Connect with Me
 
 - 🔗 [GitHub](https://github.com/code-with-srj)
-- 💼 [LinkedIn](https://www.linkedin.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shivam-raman-j-a3ab69284/)
 - 📧 [Email](mailto:codewithsrj@gmail.com) 
 
 ---
